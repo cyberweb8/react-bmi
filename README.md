@@ -12,4 +12,4 @@
 
 <!-- Since a foot is equal to 12 inches, we have to multiply foot value to 12, and then do calculation -->
 
-`BMI=703 * (weight(kg)/ Math.power(height(cm),2))`
+`BMI=703 * (weight(kg)/ Math.pow(height(cm),2))`
