@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-bmi/static/css/main.83f3b72a.css",
+    "main.js": "/react-bmi/static/js/main.c2191096.js",
+    "index.html": "/react-bmi/index.html",
+    "main.83f3b72a.css.map": "/react-bmi/static/css/main.83f3b72a.css.map",
+    "main.c2191096.js.map": "/react-bmi/static/js/main.c2191096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f3b72a.css",
+    "static/js/main.c2191096.js"
+  ]
+}
